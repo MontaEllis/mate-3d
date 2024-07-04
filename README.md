@@ -1,2 +1,2 @@
 # Project Page for MaTe3D
-https://humanaigc.github.io/mate3d/
+https://MontaEllis.github.io/mate3d/
